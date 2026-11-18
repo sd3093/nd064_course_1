@@ -1,0 +1,9 @@
+apiVersion: v1
+name: techtrends
+version: 1.0.0
+description: A Helm chart for the TechTrends application
+keywords:
+  - techtrends
+  - flask
+maintainers:
+  - name: Sohbet Dovranov
